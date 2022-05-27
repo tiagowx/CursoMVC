@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiagowx\\Desktop\\CursoMVC\\CursoMVC.csproj": {}
+    "C:\\Users\\tiagowx\\Desktop\\CursoAspNETCore\\CursoMVC\\CursoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiagowx\\Desktop\\CursoMVC\\CursoMVC.csproj": {
+    "C:\\Users\\tiagowx\\Desktop\\CursoAspNETCore\\CursoMVC\\CursoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiagowx\\Desktop\\CursoMVC\\CursoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\tiagowx\\Desktop\\CursoAspNETCore\\CursoMVC\\CursoMVC.csproj",
         "projectName": "CursoMVC",
-        "projectPath": "C:\\Users\\tiagowx\\Desktop\\CursoMVC\\CursoMVC.csproj",
+        "projectPath": "C:\\Users\\tiagowx\\Desktop\\CursoAspNETCore\\CursoMVC\\CursoMVC.csproj",
         "packagesPath": "C:\\Users\\tiagowx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiagowx\\Desktop\\CursoMVC\\obj\\",
+        "outputPath": "C:\\Users\\tiagowx\\Desktop\\CursoAspNETCore\\CursoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiagowx\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -39,6 +39,10 @@
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.25, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
